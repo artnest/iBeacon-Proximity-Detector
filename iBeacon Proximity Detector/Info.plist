@@ -60,5 +60,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Access to location is needed to be able to scan for iBeacons</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Access to location is needed to be able to scan for iBeacons</string>
 </dict>
 </plist>
